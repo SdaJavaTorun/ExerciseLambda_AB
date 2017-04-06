@@ -1,8 +1,5 @@
 package com.sdajava.exerciseLambda;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * Created by Andrzej on 06.04.2017.

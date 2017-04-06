@@ -1,11 +1,8 @@
 package com.sdajava.exerciseLambda;
 
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-
-
 
 
 public class Main {
@@ -41,8 +38,6 @@ public class Main {
         tasks.add(task1);
         tasks.add(task2);
 
-
         return tasks.stream().collect(Collectors.toList());
     }
-
 }
